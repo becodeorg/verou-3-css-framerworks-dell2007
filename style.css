@@ -11,8 +11,3 @@ body {
     width: 100vw;
 }
 
-.container {
-    display: grid;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
-    margin: 10px;
-}
