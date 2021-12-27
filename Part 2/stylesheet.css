@@ -4,13 +4,23 @@
 }
 
 body {
-    background-image: url(background.png);
+    background-color:black;
+}
+
+.container {
+    border: 1px solid gray;
+    background-color: white;
+}
+
+#back {
+    background-color: gray;
 }
 
 h1 {
     background-color:;
 }
 
-.container {
-    background-color: ;
+#main {
+    background-color: red;
+    color: white;
 }
