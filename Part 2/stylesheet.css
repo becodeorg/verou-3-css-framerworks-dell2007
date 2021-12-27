@@ -16,11 +16,33 @@ body {
     background-color: gray;
 }
 
-h1 {
-    background-color:;
+h3 {
+        color: #3972D9;
 }
 
 #main {
     background-color: red;
+    color: white;
+}
+
+#main:hover{
+    background-color: white;
+    color: red;
+}
+.btn {
+    box-shadow: 0 10px 20px gray;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+    background-color: black;
+    color: white;
+}
+
+.red {
+    color: #F80909;
+}
+
+.footer {
     color: white;
 }
