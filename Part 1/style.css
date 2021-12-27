@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:black ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    width: 100vw;
+}
+
+.card {
+    box-shadow: 0 10px 20px gray;
+}
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px white;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+    background-color: black;
+    color: white;
+}
